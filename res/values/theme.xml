@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ZavodTheme" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:spinnerStyle">@style/holoSpinner</item>
+        <item name="android:textViewStyle">@style/zavodTextView</item>
+    </style>
+
+    <style name="zavodTextView" parent="@android:style/Theme">
+        <item name="android:background">@android:drawable/edit_text</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:paddingTop">5dip</item>
+        <item name="android:paddingBottom">5dip</item>
+        <item name="android:paddingRight">5dip</item>
+        <item name="android:paddingLeft">5dip</item>
+    </style>
+
+    <style name="holoSpinner" parent="@android:style/Theme">
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:paddingTop">5dip</item>
+        <item name="android:paddingBottom">5dip</item>
+        <item name="android:paddingRight">5dip</item>
+        <item name="android:paddingLeft">5dip</item>
+    </style>
+</resources>

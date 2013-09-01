@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RabotaHH</string>
+    <string name="name">Фамилия Имя Отчество</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="email">Электронная почта</string>
+    <string name="sex">Пол</string>
+    <string name="man">Мужчина</string>
+    <string name="women">Женщина</string>
+    <string name="phone">Телефон</string>
+    <string name="position">Должность</string>
+    <string name="salary">Зарплата</string>
+    <string name="send_resume">Отправить резюме</string>
+    <string name="send_reply">Отправить ответ</string>
+    <string name="hint_reply">Поле для ответа</string>
+    <string name="about">О программе</string>
+    <string name="info">RabotaHH - приложение, представляющее собой эмулятор отправки простого резюме работодателю с получением от него ответа.\nАвтор: Жиганов Тимофей Александрович.\n</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RabotaHH</string>
+    <string name="name">Full name</string>
+    <string name="birthday">Birtdate</string>
+    <string name="email">E-mail</string>
+    <string name="sex">Sex</string>
+    <string name="man">Man</string>
+    <string name="women">Women</string>
+    <string name="phone">Phone</string>
+    <string name="position">Position</string>
+    <string name="salary">Salary</string>
+    <string name="send_resume">Submit resume</string>
+    <string name="send_reply">Submit reply</string>
+    <string name="hint_reply">Reply box</string>
+    <string name="about">About</string>
+    <string name="info">Application school.hh.ru</string>
+</resources>
